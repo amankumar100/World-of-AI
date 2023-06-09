@@ -9,4 +9,4 @@ A Recommendation System of Books written in Python using ML by [Aman Kumar](http
 In CMD Run this Command : pip install pandas
 pip install scikit-learn
 
-## Now run the code to get the output. You can directly run it or use the terminal on VSCode
+## Now run the code to get the output. You can directly run it or use the terminal on VSCode.
